@@ -1,0 +1,14 @@
+
+# Misc 
+*~
+.DS_Store
+
+
+# C++ in general
+*.o
+a.out
+
+# Specific to this project
+rugfit1
+rugfit2
+

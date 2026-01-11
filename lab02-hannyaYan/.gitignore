@@ -1,0 +1,56 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+=======
+# Executables specific to this assignment
+
+arrayToStringTest
+arrayBoundsDemo
+countEvensTest
+minOfArrayTest
+minOfArrayErrorTest
+countPrimesTest
+maxOfArrayTest
+maxOfArrayErrorTest
+sumOddsTest
+sumOfArrayTest
+utilityTest
+
+# Emacs backup files
+
+*~
+
+# Vim swap files
+
+*.swo
+*.swp
+
